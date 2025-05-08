@@ -12,7 +12,7 @@ function NavBar(){
             <li className='hover:text-sm hover:cursor-pointer hover:text-blue-900 px-2'>About</li>
             <li className='hover:text-sm hover:cursor-pointer hover:text-blue-900 px-2'>Contact</li>
         </ul>
-        <div className='flex flex-row gap-2 bg-blue-100 rounded-full items-center px-4 py-3 pr-8 ml-6'>
+        <div className='flex flex-row gap-2 bg-white rounded-full items-center px-4 py-3 pr-8 ml-6'>
             <IconSearch className='hover:cursor-pointer'/>
             <input className='outline-none pr-7 text-sm' type='text' name='search-nav' placeholder='Search something here!'></input>
         </div>
