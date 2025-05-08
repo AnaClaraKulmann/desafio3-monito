@@ -7,7 +7,7 @@ function Header(){
             <NavBar />
             <Hero />
         </header>
-    )
+    );
 }
 
 export default Header;
