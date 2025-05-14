@@ -1,6 +1,6 @@
-import Logo from '../assets/LogoMonito.svg?react';
-import IconSearch from '../assets/IconSearch.svg?react';
-import BlueButton from './multi/blueButton';
+import Logo from '../../assets/LogoMonito.svg?react';
+import IconSearch from '../../assets/IconSearch.svg?react';
+import BlueButton from '../multi/blueButton';
 
 function NavBar(){
     return (

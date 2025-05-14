@@ -1,5 +1,5 @@
-import BlueButton from "./blueButton";
-import TransparentButton from "./transparentButton";
+import BlueButton from "../multi/blueButton";
+import TransparentButton from "../multi/transparentButton";
 
 function Hero(){
     return(
