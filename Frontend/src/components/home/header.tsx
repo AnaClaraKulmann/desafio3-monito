@@ -1,5 +1,5 @@
-import NavBar from "./navbar";
-import Hero from "./hero";
+import NavBar from "../navbar";
+import Hero from "../hero";
 
 function Header(){
     return (
